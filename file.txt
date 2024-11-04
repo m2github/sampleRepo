@@ -3,3 +3,4 @@ Conflicting change in main
 =======
 Conflicting change in feature branch
 >>>>>>> feature-branch
+Feature branch content
